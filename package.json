@@ -22,7 +22,7 @@
     "url": "git@github.com:robinboehm/tweetbot-gulpjs.herokuapp.com.git"
   },
   "dependencies": {
-    "npm-tweets": "git+ssh://git@github.com:robinboehm/npm-tweets.git#01d20775e7c9713c9d00d9fabc9902d6de5a77e6",
+    "npm-tweets": "git+https://git@github.com/robinboehm/npm-tweets.git#01d20775e7c9713c9d00d9fabc9902d6de5a77e6",
     "optimist": ">0.0.0"
   },
   "devDependencies": {}
